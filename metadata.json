@@ -1,0 +1,6 @@
+{
+  "name": "Zoya MJ AI Assistant",
+  "description": "Real-time background voice assistant named MJ with sassy persona, Gemini Live audio, and deep device control tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
